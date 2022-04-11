@@ -10,7 +10,7 @@ In this application, using powershell, sending is done with the e-mail attachmen
 ```bash 
 1. Clone the repo
    ```sh
-   git clone git@github.com:muhammedeminengul/sendmail.git
+   git clone git@github.com:eminengul/sendmail.git
    ```
 2. Go into project
    ```sh
