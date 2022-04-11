@@ -18,7 +18,7 @@ In this application, using powershell, sending is done with the e-mail attachmen
    ```
 3. For run `imap.ps1`
    ```sh
-   .\sendmail.ps1
+   .\sendmail2.ps1
    ```
 ```
     
